@@ -1,0 +1,50 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+gradle.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Mac Finder settings
+.DS_Store
+
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle
+.idea
+*.iml
+
+# Old-style IDEA project files
+*.ipr
+*.iws
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+# Gradle cache
+.gradle
+
+# Sandbox stuff
+_sandbox
+
+
+/.idea/misc.xml
+
+# vim swap files
+*.swp
